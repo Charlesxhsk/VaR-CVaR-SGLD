@@ -2,7 +2,7 @@
 
 The paper "A fully data-driven approach to minimizing CVaR for portfolio of assets via SGLD with discontinuous updating" is from [1].
 
-This is a class project for simulating VaR &amp; CVaR by using data driven SGLD method given in above paper.
+This is a class project[2] for simulating VaR &amp; CVaR by using data driven SGLD method given in above paper.
 
 The code given in this repo is asked for two main tasks:
 
@@ -23,3 +23,4 @@ at a confidence level 95% following the style of presentation of Table 3 of the 
 
 
 [1]:Sabanis S, Zhang Y. A fully data-driven approach to minimizing CVaR for portfolio of assets via SGLD with discontinuous updating[J]. arXiv preprint arXiv:2007.01672, 2020.
+[2]: "Financial Risk Theory" class project in the University of Edinburgh(2021-2022). 
