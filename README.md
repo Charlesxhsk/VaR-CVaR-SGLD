@@ -9,7 +9,7 @@ Second, implement the VaR-CVaR algorithm for the case of three assets, i.e. for 
 of portfolios of assets" of the article by examining the following 5 different cases:
 | Asset 1 | Asset 2 | Asset 3 |
 |   ----  |   ----  |   ----  |
-| N(500,1)| N(0,10^6) | N(0,10^-4) |
+| $N(500,1)$| $N(0,10^{6})$ | $N(0,10^{-4})$ |
 | N(500,1)  |  N(0,10^6)  |  N(0,1)  |
 | N(0,10^3) | N(0,1)  | N(0,4)  |
 | N(0,1)  | N(1,4)  |  N(0,10^-4) |
