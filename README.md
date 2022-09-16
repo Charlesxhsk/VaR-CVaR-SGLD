@@ -14,6 +14,8 @@ of portfolios of assets" of the article by examining the following 5 different c
 | N(0,10^3) | N(0,1)  | N(0,4)  |
 | N(0,1)  | N(1,4)  |  N(0,10^-4) |
 |  N(0,1)  | N(1,4)  |  N(2,1)  |
+
+
 at a confidence level 95% following the style of presentation of Table 3 of the aforementioned article.
 
 
